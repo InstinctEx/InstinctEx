@@ -29,7 +29,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif" width="500" height="171">
+<img src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif" width="870" height="388">
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=InstinctEx&" alt="InstinctEx" /></p>
