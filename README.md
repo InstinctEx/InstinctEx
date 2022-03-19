@@ -29,7 +29,7 @@
 
 
 
-<img src="https://awesomegifs.com/wp-content/uploads/nintendos-world.gif" width="500" height="171">
+<img src="https://raw.githubusercontent.com/aayushgoyal/aayushgoyal/master/github.gif" width="500" height="171">
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=InstinctEx&" alt="InstinctEx" /></p>
