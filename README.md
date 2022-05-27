@@ -1,31 +1,53 @@
-<h1 align="center">Hi 👋 Friends I'm Instinct</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=InstinctEx&label=Profile%20views&color=0e75b6&style=flat" alt="InstinctEx" /> </p>
+![](https://img.shields.io/badge/Arch-2f98f5?style=for-the-badge&logo=archlinux&logoColor=white) ![](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) ![](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![](https://img.shields.io/badge/C-1a0af5?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/Java-f55c0a?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=InstinctEx" alt="InstinctEx" /></a> </p>
+```
+💀 Age: 19.
+📬 Contacts: https://discord.gg/AKjtYbDBT3
+🖥️ Favorite Coding Languages: Python and C.
+👾 Wants to learn: Machine Learning and AI.
+💼 Experience: 4-5 years.
+🇬🇷 Studying Computer Science and Telecommunications
+🌳 Hobbies: Basketball, Swimming.
 
-- 🔭 I’m currently working on [something secret](https://github.com/InstinctEx)
+🧰 Other Languages and Tools I use:
+- 💎 VSCode, and Eclipse IDE
+- 📝 HTML, CSS & JavaScript
+- 🔥 Brave & Firefox
 
-- 🌱 I’m currently learning **Rust**
+📜 About me:
+--------------------------------------------------
+I began coding when I was around 14. Fast forward to now, I 
+have learned more industry related languages, and started several 
+open source projects. I am currently learning Rust.
+--------------------------------------------------
+```
 
-- 👨‍💻 All of my projects are available at [https://github.com/InstinctEx](https://github.com/InstinctEx)
+## 🏆 Github Trophies & Streak
 
-- 💬 Ask me about **Everything that is legal**
+<p align="center">
+<a href="https://github.com/VarunSAthreya/github-readme-streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InstinctEx&count_private=true&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+</a>
 
-- 📫 How to reach me **Discord in decription**
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+ <img src="https://github-profile-trophy.vercel.app/?username=InstinctEx&margin-w=8&margin-h=8&theme=tokyonight&count_private=true"/>
+</a>
+</p>
 
-- ⚡ Fun fact **Don't sit there, EVOLVE**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://discord.gg/AKjtYbDBT3" target="blank"><img src="https://img.shields.io/discord/898590643872468993?color=b805ff&label=Join%20Discord%20Server&style=for-the-badge" alt="InstinctEx" /></a> </p>
+## 😴 The Boring Stuff
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> </a> </p>
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=InstinctEx&theme=material-palenight"></p>
 
+<p align="center">
+<a href="https://github.com/InstinctEx/InstinctEx/v">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InstinctEx&hide=css,javascript,html&langs_count=3&theme=material-palenight" />
+</a>
 
-
-<img src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif" width="495" height="218">
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=InstinctEx&" alt="InstinctEx" /></p>
+<a href="https://github.com/InstinctEx/InstinctEx">
+  <img src="https://github-readme-stats.vercel.app/api?username=InstinctEx&show_icons=true&line_height=27&count_private=true&theme=material-palenight"/>
+</a>
+</p>
