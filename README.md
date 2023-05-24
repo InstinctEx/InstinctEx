@@ -4,15 +4,15 @@
 
 ```
 💀 Age: 19.
-📬 Contacts: https://discord.gg/AKjtYbDBT3
-🖥️ Favorite Coding Languages: Python and C.
+📬 Contacts: None at the moment
+🖥️ Favorite Coding Languages: Python.
 👾 Wants to learn: Machine Learning and AI.
-💼 Experience: 4-5 years.
+💼 Experience: 5-6 years.
 🇬🇷 Studying Computer Science and Telecommunications
 🌳 Hobbies: Basketball, Swimming.
 
 🧰 Other Languages and Tools I use:
-- 💎 VSCode, and Eclipse IDE
+- 💎 VSCode, JetBrains IDEs
 - 📝 HTML, CSS & JavaScript
 - 🔥 Brave & Firefox
 
