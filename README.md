@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/Arch-2f98f5?style=for-the-badge&logo=archlinux&logoColor=white) ![](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) ![](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![](https://img.shields.io/badge/C-1a0af5?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/Java-f55c0a?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 
 ```
-💀 Age: 19.
+💀 Age: 20.
 📬 Contacts: None at the moment
 🖥️ Favorite Coding Languages: Python.
 👾 Wants to learn: Machine Learning and AI.
