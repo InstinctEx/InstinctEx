@@ -22,8 +22,6 @@ I began coding when I was around 14. Fast forward to now, I
 have learned more industry related languages, and started several 
 open source projects. I am currently learning Rust.
 --------------------------------------------------
-Contact : https://discord.gg/w4nbUcE8Wj
-(do not report issues,bugs etc., instead create an issue in the according repository.)
 ```
 
 
