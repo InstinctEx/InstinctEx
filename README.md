@@ -9,7 +9,7 @@
 👾 Wants to learn: Machine Learning and AI.
 💼 Experience: 5-6 years.
 🇬🇷 Studying Computer Science and Telecommunications
-🌳 Hobbies: Basketball, Swimming.
+🌳 Hobbies: Reading Books, Swimming and going out for night rides.
 
 🧰 Other Languages and Tools I use:
 - 💎 VSCode, JetBrains IDEs
