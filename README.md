@@ -41,7 +41,7 @@ open source projects. I am currently learning Rust.
 
 ## 😴 The Boring Stuff
 
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=InstinctEx&theme=material-palenight"></p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=instinctex&theme=modern-lilac"></p>
 
 <p align="center">
 <a href="https://github.com/InstinctEx/InstinctEx/v">
